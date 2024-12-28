@@ -4,7 +4,7 @@ O repositório responsive_layout é dedicado a compartilhar os projetos e desafi
 ## Desafio
 Cada desafio está em uma pasta separada, com o código fonte e arquivos necessários para visualizar o projeto. Eles variam em nível de dificuldade.
 
-### Cartão de Produto (Product Preview Card) 
+### Cartão de Produto (Product Preview Card) 🫧🧴✨
 Um desafio simples com HTML e CSS para iniciantes, focado em praticar layouts responsivos básicos.
 
 Site: [Product Preview Card](https://emillymoitinho.github.io/responsive_layouts/product-preview-card-component-main/)
@@ -13,8 +13,11 @@ Repositório: [Repositório Product Preview Card](https://github.com/emillymoiti
 
 Link do desafio: [Frontend Mentor](https://www.frontendmentor.io/solutions/card-perfume-s3L2mvOfS0)
 
-- Desktop:
-- ![print desktop](product-preview-card-component-main/images/print-desktop.jpeg)
-  
 - Mobile:
-- ![print mobile](product-preview-card-component-main/images/print-mobile.jpeg)
+  
+![print mobile](product-preview-card-component-main/images/print-mobile.jpeg)
+
+- Desktop:
+  
+![print desktop](product-preview-card-component-main/images/print-desktop.jpeg)
+
